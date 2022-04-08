@@ -1,0 +1,30 @@
+:root{
+    --color-fondoW: rgb(232, 232, 232);
+    --color-fondoB: rgb(36, 30, 30);
+--color-1: blue;
+--color-2: rgb(90, 210, 182);
+--color-3: rgb(207, 166, 69);
+}
+
+.hero{
+    color: var(--color-1);
+    font-size: 2em;
+    background-color: var(--color-3);
+}
+
+.vigiliante{
+    color: var(--color-2);
+    font-size: 1.5em;
+    background-color: var(--color-fondoB);
+}
+
+#roster{
+   
+   
+}
+
+#bats{
+    color: blue;
+    background-color: var(--color-2);
+    font-size: 3em;
+}
